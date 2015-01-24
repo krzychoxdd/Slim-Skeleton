@@ -1,0 +1,1 @@
+<h1><?php echo ucfirst($word) ?> <?php echo $name ?></h1>
